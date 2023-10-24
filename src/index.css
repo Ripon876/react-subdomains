@@ -1,0 +1,46 @@
+.code-panel {
+  text-align: left !important;
+}
+.codepanel-label {
+  text-transform: uppercase !important;
+  margin-bottom: 5px !important;
+  margin-top: 5px !important;
+}
+.cp-btn-container {
+  margin-bottom: 5px !important;
+}
+.gjs-pn-views-container {
+  height: 90% !important;
+  padding: 0 !important;
+  margin-top: 42px !important;
+}
+
+span.gjs-pn-btn.subdomain-select {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+select#subdomainSelect {
+  margin-left: 12px;
+  padding: 5px 10px;
+  outline: none;
+  background: #212134;
+  color: #ffffff;
+  border: 1px solid #d9d9d9;
+  margin-top: 1px;
+}
+
+span.gjs-pn-btn.action-button {
+  padding: 0;
+  margin: 0;
+}
+
+span.gjs-pn-btn.update-action-button {
+  padding: 0;
+  margin: 0;
+}
+
+.gjs-pn-btn {
+  min-height: 10px;
+}
